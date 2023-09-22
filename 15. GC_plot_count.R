@@ -63,7 +63,7 @@ ggplot(df, aes(x=round(GC.perc, 0), color=factor(Sample))) +
          legend.key = element_rect(fill="white")) +
 
   scale_x_continuous(breaks= seq((as.numeric(10)),(as.numeric(90)),by=10), limits = c((as.numeric(10)),(as.numeric(90)))) +
-  scale_color_manual(values = c("#B40F20", "#E58601", rep("#46ACC8",2), rep("#E2D200",2)))
+  scale_color_manual(values = c("#B40F20", "#E58601", rep("#46ACC8",2), rep("#E2D200",2)))  # For example...those from Wes Anderson?
   
 
 ## SAVE ##
