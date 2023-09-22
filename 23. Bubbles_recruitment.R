@@ -93,7 +93,7 @@ ggplot(df, aes(x = Sample, y = Genome, size = RPKG, fill = RPKG)) +
   scale_y_discrete(limits = ordeny) +
   scale_x_discrete(limits = ordenx) +
   scale_fill_gradientn (colours =
-                        paletteer_d("vapoRwave::vapoRwave"),
+                        paletteer_d("vapoRwave::vapoRwave"),   # My second best friend: Vaporwave art
                         values = scales::rescale(c(0, 1, 2, 3, 4, 5, 10, 15, 20, 30, 40, 50,
                                                    60, 70, 80, 90, 100,
                                                    110, 120, 130, 140, 150, 160, 170, 180, 190, 200,
