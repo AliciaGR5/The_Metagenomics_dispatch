@@ -7,7 +7,7 @@
 
 
 # Drawing a beautiful lollipop plot to show the alpha diversity of our samples
-# We can use the table generated with "Diversity_table_KEGG_AGR.R" script
+# We can use the table generated with "08.Diversity_table_KEGG.R" script
 
 
 ## LIBRARY ##
