@@ -57,7 +57,7 @@ df_final <-rbind(df_maxmin, df_t)
 
 # SAME PLOT: One plot, all metagenomes...
 
-colores <- c("#B40F20", "#E58601","#46ACC8", "#82C7DA","#E2D200","#EDE466")
+colores <- c("#B40F20", "#E58601","#46ACC8", "#82C7DA","#E2D200","#EDE466")  # Again my boy
 
 
 png("AAcount_one4all.png", width = 30, height = 25, units = "cm", res = 300)
@@ -95,7 +95,7 @@ dev.off()
 
 # Add 0 ant the beginning because the loop will count from the third element
 
-colores2 <- c(0, 0, "#B40F20", "#E58601","#46ACC8", "#82C7DA","#E2D200","#EDE466") 
+colores2 <- c(0, 0, "#B40F20", "#E58601","#46ACC8", "#82C7DA","#E2D200","#EDE466")  # Again my boy
 
 
 png("AAcount_all4one.png", width = 30, height = 25, units = "cm", res = 300)
