@@ -70,4 +70,16 @@ This script calculates alpha diversity (at KEGG terms level) using the Shannon i
 This script plot your GC results.
 ![Job1_G+Ccount_bin_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/80189dad-8b6a-4c07-be37-24ac875d557d)
 
+### [16. Isoelectric_point_table.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/16.%20Isoelectric_point_table.R)
+It's a good idea to observe how the isoelectric point of your sample's proteome changes, so here's a script to do it for the entire sample or separately for two groups: archaea and bacteria (because we think it's interesting to know).
++ You'll need an additional script called 'fasta2pi,' which we can't upload, but please contact us, and we'll show you how to do it (agroldan@us.es).
+
+
+### [17. PI_violin_plot.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/17.%20PI_violin_plot.R)
+
+
+### [18. PI_density_plot.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/18.%20PI_density_plot.R)
+
+
+
 
