@@ -8,7 +8,7 @@
 
 # Preparing data obtained with SqueezeMeta (table 12 - KEGG) for Shannon test (alpha diversity)
 
-### Remember to delete the first line (Rmv_bucle.sh) and the # of the table 12 ###
+### Remember to delete the first line (05.Rmv_loop.sh) and the # of the table 12 ###
 
 
 ## DATASET ##
