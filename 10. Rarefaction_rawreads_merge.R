@@ -6,7 +6,7 @@
 # R v.4.1.2
 
 
-# This script merges the files obtained with 06. Raw_read_funx.R and creates a beautiful plot
+# This script merges the files obtained with 09. Raw_read_funx.R and creates a beautiful plot
 
 
 ## LIBRARY ##
