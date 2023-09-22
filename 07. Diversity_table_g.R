@@ -8,7 +8,7 @@
 
 # Preparing data obtained with SqueezeMeta (table 19 - contigs) for Shannon test (alpha diversity)
 
-### Remember to delete the first line (Rmv_bucle.sh)
+### Remember to delete the first line (05.Rmv_loop.sh)
 
 
 ## DATASET ##
