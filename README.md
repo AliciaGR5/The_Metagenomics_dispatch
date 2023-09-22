@@ -3,11 +3,13 @@ Scripts that help take small steps in the inmeasurable (and entertaining) world 
 
 ===========================================================================
 
-** IMPORTANT INFORMATION: These scripts are for:
-   + SqueezeMeta v.1.6.1post1 
-   + Bash v.4.4.20
-   + Python v.3.6.8
-   + R v.3.6.3 (2020-02-29) and v.4.1.2 (2021-11-01)
+**IMPORTANT INFORMATION:** These scripts are for:
+  + SqueezeMeta v.1.6.1post1 
+  + Bash v.4.4.20
+  + Python v.3.6.8
+  + R v.3.6.3 (2020-02-29) and v.4.1.2 (2021-11-01)
+
+`#0969DA`
 
 ===========================================================================
 
