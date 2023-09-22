@@ -61,7 +61,7 @@ ordenx <- c("IC195", "IC22","IC36_1", "IC36_2", "IC39_1", "IC39_2",
 ordeny <- c("c157", "c78", "c65", "c104",
             "Spiribacter_salinus_M1940", "Haloquadratum_walsbyi_C23")
 
-colores <- c("#B40F20", "#E58601", rep("#46ACC8",2), rep("#E2D200",2), rep("grey80", 13))
+colores <- c("#B40F20", "#E58601", rep("#46ACC8",2), rep("#E2D200",2), rep("grey80", 13))  # Thanks again, Wes Anderson
 
 ggplot(df, aes(x = Sample, y = Genome, size = RPKG, fill = RPKG)) + 
   geom_point(shape = 21, alpha=0.8, stroke = 1.1, colour = "black") +
