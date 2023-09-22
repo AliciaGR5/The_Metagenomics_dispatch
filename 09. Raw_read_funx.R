@@ -8,7 +8,7 @@
 
 # Function for counting the reads that form the contigs of our sample (table 19 - contigs)
 
-### Remember to delete the first line (Rmv_bucle.sh)
+### Remember to delete the first line (05.Rmv_loop.sh)
 
 
 ## FUNCTION ##
