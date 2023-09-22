@@ -52,9 +52,9 @@ This script merges the files obtained with [06. Raw_read_funx.R](https://github.
 If you can't work with your reads (or you don't want) here are other scripts that do the same but at contig level. You should know that sometimes this approach to the work is not accurate, it depends on the level and the accuracy you want to have in your study. It's up to you! :)
 
 - ### [11. Rarefaction_family.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/11.%20Rarefaction_family.R)
-  - This script requires the table obtained with the [08. Diversity_table_f_AGR.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/08.%20Diversity_table_f_AGR.R) script and draw the rarefaction curve at family level
+  - This script requires the table obtained with the [06. Diversity_table_f.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/06.%20Diversity_table_f.R) script and draw the rarefaction curve at family level
 - ### [12. Rarefaction_genus.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/12.%20Rarefaction_genus.R)
-  - This script requires the table obtained with the [09. Diversity_table_g_AGR.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/09.%20Diversity_table_g_AGR.R) script and draw the rarefaction curve at genus level
+  - This script requires the table obtained with the [07. Diversity_table_g.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/07.%20Diversity_table_g.R) script and draw the rarefaction curve at genus level
 
 ### [13. Alphadiversity_plot_tax.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/13.%20Alphadiversity_plot_tax.R)
 This script calculates alpha diversity (at taxa level) using the Shannon index and makes a beautiful lollipop plot
