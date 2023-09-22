@@ -78,7 +78,7 @@ It's just if you want to create a loop and make your life easier.
 
 ### [18. Isoelectric_point_table.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/18.%20Isoelectric_point_table.R)
 It's a good idea to observe how the isoelectric point of your sample's proteome changes, so here's a script to do it for the entire sample or separately for two groups: archaea and bacteria (because we think it's interesting to know).
-+ You'll need an additional script called 'fasta2pi,' which we can't upload, but please contact us, and we'll show you how to do it **(agroldan@us.es)**.
++ You'll need an additional script called 'fasta2pi' which we can't upload, but please contact us, and we'll show you how to do it **(agroldan@us.es)**.
 
 ### [19. PI_violin_plot.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/19.%20PI_violin_plot.R)
 This script will create a violin plot to visualize the differences in isoelectric points between bacteria and archaea.
@@ -91,6 +91,15 @@ This script will create a plot to visualize the differences in isoelectric point
 + It requires the table "Punto_isoelectrico_total.txt" obtained with [18. Isoelectric_point_table.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/18.%20Isoelectric_point_table.R) script.
 ![PI_density_edit_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/3d8b5075-1c45-4cab-b71a-ff4aefb523a1)
 
+### [21. countingAAS.py](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/21.%20countingAAS.py)
+Have you ever dream about counting the amino acids of your sample? Here's is the solution!
+
+### [22. AA_count.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/22.%20AA_count.R)
+It requires the results ...clean.fasta.aas.out obtained with [21. countingAAS.py](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/21.%20countingAAS.py) script.
+You can choose whether you want to plot all metagenomes in a single figure or vice versa.
++ If you want to be rigorous, you have to clean your sequences first, so you'll need an additional script called 'cleaning_seqs.py' which we can't upload, but please contact us, and we'll show you how to do it **(agroldan@us.es)**.
+![AAcount_one4all_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/56620990-cd79-4c08-b535-02d90e1016a7)
+![AAcount_all4one](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/04bfdf00-dcdc-4aad-b62c-a0732d8f8ab7)
 
 
 
