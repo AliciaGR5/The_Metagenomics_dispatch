@@ -8,7 +8,6 @@
 #SBATCH --output=<metagenome_name>_SQM.%J.out
 
 
-
 # IMPORTANT: This is the script for working on PICASSO. You should carefully consider how to launch it based on the server you have access to.
 #            If you want more information about SqueezeMeta, I recommend that you read up on it: https://github.com/jtamames/SqueezeMeta
 
