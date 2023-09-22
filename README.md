@@ -25,3 +25,10 @@ SqueezeMeta generates a lot of tables, but if you want to work with them in R (o
 
 ### 5. Rmv_loop.sh
 It's just if you want to create a loop and make your life easier
+
+### 6. Raw_read_funx.R
+The first thing you should do before testing your hypotheses in your metagenomic study is to check if your samples are comparable. To do this, it is advisable to create a rarefaction curve.
+We will perform it based on reads and at the family level, but you can do it at the level you prefer to work with. This is especially important when calculating alpha diversity (which we will discuss later).
+With this script, you will obtain a table with the total number of reads that make up each family in each of your samples
+
+### 7. Rarefaction_family.R
