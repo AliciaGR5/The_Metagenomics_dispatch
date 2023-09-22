@@ -42,7 +42,7 @@ ggplot(df2, aes(x=PI, color=factor(Sample))) +
          legend.key = element_rect(fill="white")) +
   
   scale_x_continuous(breaks= seq((as.numeric(0)),(as.numeric(14)),by=1), limits = c((as.numeric(0)),(as.numeric(14)))) +
-  scale_color_manual(values = c("#B40F20", "#E58601", rep("#46ACC8",2), rep("#E2D200",2)))
+  scale_color_manual(values = c("#B40F20", "#E58601", rep("#46ACC8",2), rep("#E2D200",2)))  # Wes Anderson, my old friend
 
 
 ## SAVE ##
