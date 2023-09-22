@@ -101,6 +101,11 @@ You can choose whether you want to plot all metagenomes in a single figure or vi
 ![AAcount_one4all_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/56620990-cd79-4c08-b535-02d90e1016a7)
 ![AAcount_all4one](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/04bfdf00-dcdc-4aad-b62c-a0732d8f8ab7)
 
+### [23. Bubbles_recruitment.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/23.%20Bubbles_recruitment.R)
+Finally, if you want to 
+
+
+### [24. Recruitment_loop_IC.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/24.%20Recruitment_loop_IC.R)
 
 
 
