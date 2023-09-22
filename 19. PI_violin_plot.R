@@ -7,7 +7,7 @@
 
 
 # Plotting our beautiful isoelectric point with the table "Punto_isoelectrico_ArchBact.txt" obtained
-# with our script "18. Isoelectric_point_table.R"
+# with our script "18.Isoelectric_point_table.R"
 
 
 ## LIBRARY ##
