@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## Author: Alicia Garci­a-Roldan
+## Author: Alicia GarciÂ­a-Roldan
 ## Date:January 2023
 
 
