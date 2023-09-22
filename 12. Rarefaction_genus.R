@@ -6,7 +6,7 @@
 # R v.4.1.2
 
 
-# Preparing data ("Diversity_table_genus.txt") obtained with the script "07. Diversity_table_g.R"
+# Preparing data ("Diversity_table_genus.txt") obtained with the script "07.Diversity_table_g.R"
 
 
 ## LIBRARY ##
