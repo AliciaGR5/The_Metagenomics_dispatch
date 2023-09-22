@@ -3,7 +3,15 @@
 # Date: June 2023
 
 
-library(vegan)
+# This script merges the files obtained with 06. Raw_read_funx.R and creates a beautiful plot
+
+
+## LIBRARY ##
+
+library(vegan) # v.2.6.4 
+
+
+## DATASET ##
 
 alldiv <- c(IC195 ="IC195_Diversity_table_family_raw.txt", IC22="IC22_Diversity_table_family_raw.txt",
             IC361="IC361_Diversity_table_family_raw.txt", IC362="IC362_Diversity_table_family_raw.txt",
@@ -105,5 +113,8 @@ legend("bottomright",
 )
 
 dev.off()
+
+
+## SAVE ## 
 
 write.table(merged_definitiva_t, file = "Diversity_raw_reads.txt",sep = "\t")
