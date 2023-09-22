@@ -1,5 +1,5 @@
 
-# Author: Alicia Garcia Roldan
+# Author: Alicia Garcia-Roldan
 
 # Date: September 2023
 
