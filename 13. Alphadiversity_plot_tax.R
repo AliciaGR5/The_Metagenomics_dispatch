@@ -7,7 +7,7 @@
 
 
 # Drawing a beautiful lollipop plot to show the alpha diversity of our samples
-# We can use the table generated with "06. Diversity_table_f.R" or "07. Diversity_table_g.R" script
+# We can use the table generated with "06.Diversity_table_f.R" or "07.Diversity_table_g.R" script
 
 
 ## LIBRARY ##
