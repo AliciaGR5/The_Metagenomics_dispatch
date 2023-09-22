@@ -42,7 +42,7 @@ ggplot(df) +
     panel.background = element_blank(), # White background
     axis.line = element_line(size=1) # Draw axis lines
   ) + 
-  scale_fill_manual(values=c("#FF4373", "#FFDE8B"))
+  scale_fill_manual(values=c("#FF4373", "#FFDE8B"))  # Now I'm moving to vaporwave art
 
 
 ## SAVE ##
