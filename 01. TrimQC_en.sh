@@ -19,7 +19,7 @@ DIRECTORY=$1   # Metagenome folder name
 ### DECOMPRESS FILES ###
 ########################
 
-echo -e  "\n I'm Concha, I'm in (Soy Concha, entro) \n"
+echo -e  "\n It's Concha, I'm in (Soy Concha, entro) \n"
 
 echo -e "cd ${DIRECTORY}"
 
