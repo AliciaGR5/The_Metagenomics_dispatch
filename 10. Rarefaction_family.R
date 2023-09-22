@@ -11,7 +11,7 @@
 
 ## LIBRARY ##
 
-library(vegan)  #v.2.6.4
+library(vegan)  # v.2.6.4
 
 
 ## DATASET ##
