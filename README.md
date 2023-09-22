@@ -28,27 +28,36 @@ SqueezeMeta generates a lot of tables, but if you want to work with them in R (o
 ### [05. Rmv_loop.sh](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/05.%20Rmv_loop.sh)
 It's just if you want to create a loop and make your life easier
 
-### [08. Diversity_table_f_AGR.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/08.%20Diversity_table_f_AGR.R)
-This script counts how many contigs are related with each family in each sample (it will be useful for [10. Rarefaction_family.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/10.%20Rarefaction_family.R) and [11. Rarefaction_genus.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/11.%20Rarefaction_genus.R) scripts
+### [06. Diversity_table_f.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/06.%20Diversity_table_f.R)
+This script counts how many contigs are related with each family in each sample (it will be useful for [11. Rarefaction_family.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/11.%20Rarefaction_family.R), [12. Rarefaction_genus.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/12.%20Rarefaction_genus.R) and [13. Alphadiversity_plot_tax.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/13.%20Alphadiversity_plot_tax.R) scripts)
 
-### [09. Diversity_table_g_AGR.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/09.%20Diversity_table_g_AGR.R)
-This script counts how many contigs are related with each genus in each sample
+### [07. Diversity_table_g.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/07.%20Diversity_table_g.R)
+This script counts how many contigs are related with each genus in each sample (it will be useful for [11. Rarefaction_family.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/11.%20Rarefaction_family.R), [12. Rarefaction_genus.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/12.%20Rarefaction_genus.R) and [13. Alphadiversity_plot_tax.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/13.%20Alphadiversity_plot_tax.R) scripts)
 
-### [06. Raw_read_funx.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/06.%20Raw_read_funx.R)
+### [08. Diversity_table_KEGG.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/08.%20Diversity_table_KEGG.R)
+This script counts how many contigs are related with each KEGG terms in each sample (it will be useful for [14. Alphadiversity_plot_KEGG.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/14.%20Alphadiversity_plot_KEGG.R) script)
+
+### [09. Raw_read_funx.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/09.%20Raw_read_funx.R)
 The first thing you should do before testing your hypotheses in your metagenomic study is to check if your samples are comparable. To do this, it is advisable to create a rarefaction curve.
 We will perform it based on reads and at the family level, but you can do it at the level you prefer to work with. This is especially important when calculating alpha diversity (which we will discuss later).
 With this script, you will obtain a table with the total number of reads that make up each family in each of your samples
 
-### [07. Rarefaction_rawreads_merge.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/07.%20Rarefaction_rawreads_merge.R)
+### [10. Rarefaction_rawreads_merge.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/10.%20Rarefaction_rawreads_merge.R)
 This script merges the files obtained with [06. Raw_read_funx.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/06.%20Raw_read_funx.R) and creates a plot like this
 ![Rarefaction_reads_edit_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/2a15fb71-6f59-43ef-b86d-675991c4c5c5)
 
 If you can't work with your reads (or you don't want) here are other scripts that do the same but at contig level. You should know that sometimes this approach to the work is not accurate, it depends on the level and the accuracy you want to have in your study. It's up to you! :)
 
-- ### [10. Rarefaction_family.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/10.%20Rarefaction_family.R)
+- ### [11. Rarefaction_family.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/11.%20Rarefaction_family.R)
   - This script requires the table obtained with the [08. Diversity_table_f_AGR.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/08.%20Diversity_table_f_AGR.R) script and draw the rarefaction curve at family level
-- ### [11. Rarefaction_genus.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/11.%20Rarefaction_genus.R)
+- ### [12. Rarefaction_genus.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/12.%20Rarefaction_genus.R)
   - This script requires the table obtained with the [09. Diversity_table_g_AGR.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/09.%20Diversity_table_g_AGR.R) script and draw the rarefaction curve at genus level
 
+### [13. Alphadiversity_plot_tax.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/13.%20Alphadiversity_plot_tax.R)
+This script calculates alpha diversity (at taxa level) using the Shannon index and makes a beautiful lollipop plot
+![Job1_alphadiversity_f_R_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/016c685a-5d4c-4815-ae53-fdd9f8767eb1)
 
+### [14. Alphadiversity_plot_KEGG.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/14.%20Alphadiversity_plot_KEGG.R)
+This script calculates alpha diversity (at KEGG terms level) using the Shannon index and makes a beautiful lollipop plot
+![Job1_alphadiversity_KEGG_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/cba6fa91-7cc2-4cee-9e8a-24f7c9572a85)
 
