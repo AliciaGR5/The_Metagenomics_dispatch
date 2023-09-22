@@ -29,13 +29,16 @@ SqueezeMeta generates a lot of tables, but if you want to work with them in R (o
 It's just if you want to create a loop and make your life easier
 
 ### [06. Diversity_table_f.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/06.%20Diversity_table_f.R)
-This script counts how many contigs are related with each family in each sample (it will be useful for [11. Rarefaction_family.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/11.%20Rarefaction_family.R), [12. Rarefaction_genus.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/12.%20Rarefaction_genus.R) and [13. Alphadiversity_plot_tax.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/13.%20Alphadiversity_plot_tax.R) scripts)
+This script counts how many contigs are related with each family in each sample.
++ It will be useful for [11. Rarefaction_family.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/11.%20Rarefaction_family.R), [12. Rarefaction_genus.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/12.%20Rarefaction_genus.R) and [13. Alphadiversity_plot_tax.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/13.%20Alphadiversity_plot_tax.R) scripts
 
 ### [07. Diversity_table_g.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/07.%20Diversity_table_g.R)
-This script counts how many contigs are related with each genus in each sample (it will be useful for [11. Rarefaction_family.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/11.%20Rarefaction_family.R), [12. Rarefaction_genus.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/12.%20Rarefaction_genus.R) and [13. Alphadiversity_plot_tax.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/13.%20Alphadiversity_plot_tax.R) scripts)
+This script counts how many contigs are related with each genus in each sample.
++ It will be useful for [11. Rarefaction_family.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/11.%20Rarefaction_family.R), [12. Rarefaction_genus.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/12.%20Rarefaction_genus.R) and [13. Alphadiversity_plot_tax.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/13.%20Alphadiversity_plot_tax.R) scripts
 
 ### [08. Diversity_table_KEGG.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/08.%20Diversity_table_KEGG.R)
-This script counts how many contigs are related with each KEGG terms in each sample (it will be useful for [14. Alphadiversity_plot_KEGG.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/14.%20Alphadiversity_plot_KEGG.R) script)
+This script counts how many contigs are related with each KEGG terms in each sample.
++ It will be useful for [14. Alphadiversity_plot_KEGG.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/14.%20Alphadiversity_plot_KEGG.R) script
 
 ### [09. Raw_read_funx.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/09.%20Raw_read_funx.R)
 The first thing you should do before testing your hypotheses in your metagenomic study is to check if your samples are comparable. To do this, it is advisable to create a rarefaction curve.
@@ -60,4 +63,9 @@ This script calculates alpha diversity (at taxa level) using the Shannon index a
 ### [14. Alphadiversity_plot_KEGG.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/14.%20Alphadiversity_plot_KEGG.R)
 This script calculates alpha diversity (at KEGG terms level) using the Shannon index and makes a beautiful lollipop plot
 ![Job1_alphadiversity_KEGG_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/cba6fa91-7cc2-4cee-9e8a-24f7c9572a85)
+
+### [15. GC_plot_count.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/15.%20GC_plot_count.R)
+This script plot your GC results
+![Job1_G+Ccount_bin_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/80189dad-8b6a-4c07-be37-24ac875d557d)
+
 
