@@ -11,7 +11,7 @@ Scripts that help take small steps in the inmeasurable (and entertaining) world 
 
 ===========================================================================
 
-### 01. TrimQC_en.sh
+### [01. TrimQC_en.sh](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/01.%20TrimQC_en.sh)
 This is the first thing you should do before starting your study: check your samples quality and perform trimming to improve their quality. I recommend using [MetaWRAP](https://pubmed.ncbi.nlm.nih.gov/30219103/) because it works with modules (making it easy to use) and also performs quality analysis automatically before and after trimming (thanks, MetaWRAP!). However, you are free to use your trusted tool :)
 
 ### 02. Assembly_SPA.sh
