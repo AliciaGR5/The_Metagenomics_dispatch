@@ -35,7 +35,8 @@ for (sample in names(allrec)) {
   
   ## PLOTTING TIME! ##
   
-  colores <- c("#7ecdb0", "#eeadb0","#fce1ac", "#a2d7a9", "#dcbada", "#d1a055") # Thanks again, Wes Anderson
+  colores <- c("#7ecdb0", "#eeadb0","#fce1ac", "#a2d7a9", "#dcbada", "#d1a055") # Thanks again, Wes Anderson 
+                                                                                # (now I'm using another film hehehe...hint: we watched it on 2023)
   
   plot[[sample]] <- ggplot(data=projs[[sample]], aes(x=Genome, y=RPKG, fill = Genome)) +
     geom_bar(stat="identity", width=0.8) + 
