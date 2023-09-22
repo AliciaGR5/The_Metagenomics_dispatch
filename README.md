@@ -9,7 +9,7 @@ Scripts that help take small steps in the inmeasurable (and entertaining) world 
   + Python v.3.6.8
   + R v.3.6.3 (2020-02-29) and v.4.1.2 (2021-11-01)
 
-`#0969DA`
+`#0969DA` blue 
 
 ===========================================================================
 
