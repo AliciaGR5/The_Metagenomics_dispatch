@@ -88,9 +88,9 @@ This script will create a violin plot to visualize the differences in isoelectri
 
 ### [20. PI_density_plot.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/20.%20PI_density_plot.R)
 This script will create a plot to visualize the differences in isoelectric points between different samples.
++ It requires the table "Punto_isoelectrico_total.txt" obtained with [18. Isoelectric_point_table.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/18.%20Isoelectric_point_table.R) script.
 ![PI_density_edit_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/3d8b5075-1c45-4cab-b71a-ff4aefb523a1)
 
-+ It requires the table "Punto_isoelectrico_total.txt" obtained with [18. Isoelectric_point_table.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/18.%20Isoelectric_point_table.R) script.
 
 
 
