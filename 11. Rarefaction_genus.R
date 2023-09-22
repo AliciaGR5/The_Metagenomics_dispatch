@@ -12,7 +12,6 @@
 ## LIBRARY ##
 
 library(vegan) # v.2.6.4
-library(paletteer)
 
 
 ## DATASET ##
