@@ -49,7 +49,7 @@ for (sample in names(projs)){
 
 ## PLOTTING TIME! ##
 
-# Barplot changes your order, so if We want the correct order we have to force it :(
+# Barplot changes your order, so if we want the correct order we have to force it :(
 
 ordenx <- c("IC195", "IC22","IC36_1", "IC36_2", "IC39_1", "IC39_2",
             "IC21", 
