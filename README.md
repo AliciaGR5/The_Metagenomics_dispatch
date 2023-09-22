@@ -1,6 +1,8 @@
 # The_Metagenomics_dispatch
 Scripts that help take small steps in the inmeasurable (and entertaining) world of metagenomics
 
+=======================================================================================================================================================================================================================
+
 ** IMPORTANT INFORMATION: These scripts are for: "\n"
       SqueezeMeta v.1.6.1post1 
       Bash v.4.4.20
