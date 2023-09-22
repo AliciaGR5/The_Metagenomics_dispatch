@@ -8,7 +8,7 @@
 
 # We can use either Table 18 (bins) or Table 19 (contigs) depending on what we want to know
 
-# Remember to delete the first line (Rmv_bucle.sh)
+# Remember to delete the first line (05.Rmv_loop.sh)
 
 
 ## LIBRARY ##
