@@ -6,7 +6,7 @@
 # R v.4.1.2
 
 
-# Preparing data ("Diversity_table_family.txt") obtained with the script "06. Diversity_table_f.R"
+# Preparing data ("Diversity_table_family.txt") obtained with the script "06.Diversity_table_f.R"
 
 
 ## LIBRARY ##
