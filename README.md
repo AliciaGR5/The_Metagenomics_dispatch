@@ -45,7 +45,7 @@ If you can't work with your reads (or you don't want) here are other scripts tha
 - ### [10. Rarefaction_family.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/10.%20Rarefaction_family.R)
     - This script draw the rarefaction curve at family level
 - ### [11. Rarefaction_genus.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/11.%20Rarefaction_genus.R)
-      - This script draw the rarefaction curve at genus level
+    - This script draw the rarefaction curve at genus level
 
 
 
