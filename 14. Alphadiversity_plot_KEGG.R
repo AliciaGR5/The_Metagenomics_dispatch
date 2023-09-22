@@ -47,7 +47,7 @@ ggplot(my_df, aes(x=Samples, y=AD_Shannon)) +
   theme_light() + # White background
   coord_flip() +  # Flip everything and draw the plot in horizontal way
   scale_x_discrete(limits = rev) + #y axis is reordered as I want ;)
-  scale_color_manual(values = c("#B40F20", "#E58601", rep("#46ACC8",2), rep("#E2D200",2))) +
+  scale_color_manual(values = c("#B40F20", "#E58601", rep("#46ACC8",2), rep("#E2D200",2))) +   # Never stop believing in Wes Anderson
   geom_text(aes(label=round(AD_Shannon, 2)), size=5, color="black", vjust = -0.9) + # Put the number above the dots
   theme(
     panel.grid.major.y = element_blank(),
