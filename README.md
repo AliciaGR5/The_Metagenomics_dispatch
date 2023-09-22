@@ -32,7 +32,7 @@ We will perform it based on reads and at the family level, but you can do it at 
 With this script, you will obtain a table with the total number of reads that make up each family in each of your samples
 
 ### 07. Rarefaction_rawreads_merge.R
-This script merges the files obtained with [06. Raw_read_funx.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch#06-raw_read_funxr) and creates a plot like this
+This script merges the files obtained with [06. Raw_read_funx.R]([https://github.com/AliciaGR5/The_Metagenomics_dispatch#06-raw_read_funxr](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/06.%20Raw_read_funx.R) and creates a plot like this
 ![Rarefaction_reads_edit_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/2a15fb71-6f59-43ef-b86d-675991c4c5c5)
 
 
