@@ -28,7 +28,7 @@ Srare <- rarefy(f, raremax)
 
 ## PLOTTING TIME! ##
 
-colores <- c("#B40F20", "#E58601", rep("#46ACC8",2), rep("#E2D200",2)) # Choose the colour of your samples
+colores <- c("#B40F20", "#E58601", rep("#46ACC8",2), rep("#E2D200",2)) # Thanks, Wes Anderson
 
 line <- c(rep(c("solid"),3), "dotted", "solid", "dotted") # Choose the line type you want
 
