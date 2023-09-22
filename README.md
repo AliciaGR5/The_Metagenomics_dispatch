@@ -1,6 +1,7 @@
 # The_Metagenomics_dispatch
 Scripts that help take small steps in the inmeasurable (and entertaining) world of metagenomics :)
 
+
 ===========================================================================
 
 **IMPORTANT INFORMATION:** These scripts are for:
@@ -10,6 +11,7 @@ Scripts that help take small steps in the inmeasurable (and entertaining) world 
   + R v.3.6.3 (2020-02-29) and v.4.1.2 (2021-11-01)
 
 ===========================================================================
+
 
 ### [01. TrimQC_en.sh](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/01.%20TrimQC_en.sh)
 This is the first thing you should do before starting your study: check your samples quality and perform trimming to improve their quality. I recommend using [MetaWRAP](https://pubmed.ncbi.nlm.nih.gov/30219103/) because it works with modules (making it easy to use) and also performs quality analysis automatically before and after trimming (thanks, MetaWRAP!). However, you are free to use your trusted tool :)
