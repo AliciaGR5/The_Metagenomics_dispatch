@@ -1,5 +1,5 @@
 
-# Author: Alicia Garcia Roldan & Cristina Galisteo
+# Author: Cristina Galisteo & Alicia Garcia Roldan
 
 # Date: May 2023
 
@@ -69,7 +69,7 @@ radarchart(df_final,
            axistype = 1, 
            cglcol = "grey", cglty = 3, cglwd = 0.8,
            axislabcol = "black",
-           title = "Frecuencia de uso de amino·cidos",
+           title = "Frecuencia de uso de amino√°cidos",
            vlcex=0.8,
            caxislabels = c(0, NA, 6, NA, 12), # Show max, min and middle value 
            calcex = 0.8, # Max and min size
