@@ -103,7 +103,7 @@ You can choose whether you want to plot all metagenomes in a single figure or vi
 ### [23. Bubbles_recruitment.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/23.%20Bubbles_recruitment.R)
 Finally, you can see if the bins obtained with SqueezeMeta are in other environments...maybe your little baby is ubiquitous (or not)!! You should do recruitment.
 You can plot it in a bubble plot...
-![Recruitment_bubble_edit_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/c304022f-dea5-4811-a905-8bdb24eaa4bf)
+![Recruitment_bubble_edit_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/059ba593-51ad-4163-ba82-0be053ab88bb)
 
 ### [24. Recruitment_loop_IC.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/24.%20Recruitment_loop_IC.R)
 ...or in a barplot...it is up to you! :)
