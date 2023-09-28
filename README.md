@@ -107,6 +107,7 @@ You can plot it in a bubble plot...
 
 ### [24. Recruitment_loop_IC.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/24.%20Recruitment_loop_IC.R)
 ...or in a barplot...it is up to you! :)
-![Github_recruit](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/40c763f5-bc60-42fe-affe-9216a3f1bb9a)
+![Github_recruit](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/dac8fbed-2df3-46b0-9753-0e1fd5952555)
+
 
 
