@@ -12,7 +12,7 @@
 
 ## LIBRARY ##
 
-library(paletteer)  # V. 1.4.0
+library(paletteer)  # v.1.4.0
 library(ggplot2)  # v.3.4.0
 
 
