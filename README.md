@@ -46,7 +46,7 @@ We will perform it based on reads and at the family level, but you can do it at 
 With this script, you will obtain a table with the total number of reads that make up each family in each of your samples.
 
 ### [10. Rarefaction_rawreads_merge.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/10.%20Rarefaction_rawreads_merge.R)
-This script merges the files obtained with [09. Raw_read_funx.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/09.%20Raw_read_funx.R) ... okay, maybe it's not the most elegant script, but it gets the job done ... Don't worry!! From here on, everything is going to be more beautiful and elegant
+This script merges the files obtained with [09. Raw_read_funx.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/09.%20Raw_read_funx.R) ... okay, maybe it's not the most elegant script, but it gets the job done ... Don't worry!! From here on, everything is going to be more beautiful and elegant.
 ![Rarefaction_reads_edit_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/2a15fb71-6f59-43ef-b86d-675991c4c5c5)
 
 If you can't work with your reads (or you don't want) here are other scripts that do the same but at contig level. You should know that sometimes this approach to the work is not accurate, it depends on the level and the accuracy you want to have in your study. It's up to you! :)
@@ -67,7 +67,7 @@ This script calculates alpha diversity (at KEGG terms level) using the Shannon i
 ![Job1_alphadiversity_KEGG_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/cba6fa91-7cc2-4cee-9e8a-24f7c9572a85)
 
 ### [15. GC_plot_count.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/15.%20GC_density_plot.R)
-This script plot your GC results (many, many, maaaaany tears have been shed in this script)
+This script plot your GC results (many, many, maaaaany tears have been shed in this script).
 ![GC_density_plot](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/514d792f-be56-45e8-8524-2b56b999516c)
 
 ### [16. PI_calc.sh](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/16.%20PI_calc.sh)
