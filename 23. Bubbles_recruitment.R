@@ -18,15 +18,15 @@ library(ggplot2)  # v.3.4.0
 
 ## DATASET ##
 
-allrec <- c(IC195 = "Reclutamientos_IC19_5.txt", IC22="Reclutamientos_IC22.txt",
+allrec <- c(IC195="Reclutamientos_IC19_5.txt", IC22="Reclutamientos_IC22.txt",
             IC36_1="Reclutamientos_IC361.txt", IC36_2="Reclutamientos_IC362.txt",
             IC39_1="Reclutamientos_IC391.txt", IC39_2="Reclutamientos_IC392.txt",
             IC21="Reclutamientos_IC21.txt", 
-            SS13= "Reclutamientos_SS13.txt", SS19="Reclutamientos_SS19.txt",
+            SS13="Reclutamientos_SS13.txt", SS19="Reclutamientos_SS19.txt",
             SS33="Reclutamientos_SS33.txt", SS37="Reclutamientos_SS37.txt",
-            Meyghan_5 = "Reclutamientos_Meyghan5_nuevo.txt", Meyghan_18="Reclutamientos_Meyghan18_nuevo.txt",
+            Meyghan_5 ="Reclutamientos_Meyghan5_nuevo.txt", Meyghan_18="Reclutamientos_Meyghan18_nuevo.txt",
             Meyghan_30="Reclutamientos_Meyghan30_nuevo.txt",
-            ArcticSpring = "Reclutamientos_Arctic24_nuevo.txt", CaboRojo="Reclutamientos_CaboRojo34_nuevo.txt",
+            ArcticSpring="Reclutamientos_Arctic24_nuevo.txt", CaboRojo="Reclutamientos_CaboRojo34_nuevo.txt",
             Urmia="Reclutamientos_Urmia27_nuevo.txt", Xinjiang="Reclutamientos_Xinjiang30_nuevo.txt",
             d1A="Reclutamientos_d1A_nuevo.txt")
 
@@ -49,7 +49,7 @@ for (sample in names(projs)){
 
 ## PLOTTING TIME! ##
 
-# Barplot changes your order, so if we want the correct order we have to force it :(
+# Bubble plot changes your order, so if we want the correct order we have to force it :(
 
 ordenx <- c("IC195", "IC22","IC36_1", "IC36_2", "IC39_1", "IC39_2",
             "IC21", 
