@@ -92,7 +92,7 @@ This script will create a plot to visualize the differences in isoelectric point
 ![PI_density_edit_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/9ac6c6d9-c2ee-4a47-91c6-600cf5e9fe67)
 
 ### [21. countingAAS.py](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/21.%20countingAAS.py)
-Have you ever dreamt about counting the amino acids of your sample? Here's is the solution!
+Have you ever dreamt about counting the amino acids of your sample? Here's the solution!
 
 ### [22. AA_count.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/22.%20AA_count.R)
 It requires the results ...clean.fasta.aas.out obtained with [21. countingAAS.py](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/21.%20countingAAS.py) script.
