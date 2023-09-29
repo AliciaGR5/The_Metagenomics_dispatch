@@ -1,5 +1,5 @@
 # The_Metagenomics_dispatch
-#### Alicia Garcia-Roldan
+#### + Alicia Garcia-Roldan
 Scripts that help take small steps in the inmeasurable (and entertaining) world of metagenomics :wink:
 
 
