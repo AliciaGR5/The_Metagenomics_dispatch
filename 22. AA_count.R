@@ -1,5 +1,5 @@
 
-# Author: Cristina Galisteo & Alicia Garcia Roldan
+# Author: Cristina Galisteo & Alicia Garcia-Roldan
 
 # Date: May 2023
 
