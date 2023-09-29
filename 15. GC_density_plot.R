@@ -1,7 +1,7 @@
 
 # Author: Alicia Garcia-Roldan & Fernando Puente-Sanchez
 
-						                     # I'll light a little candle for you, miarma #
+				 # I'll light a little candle for you, miarma #
 
 # Date: September 2023
 
@@ -9,7 +9,7 @@
 
 
 # This script makes a plot of the distribution of GC content calculated from the reads (you might want to cry
-# but don't worry, here´s the solution).
+# but don't worry, hereÂ´s the solution).
 
 
 ## DATASET ##
