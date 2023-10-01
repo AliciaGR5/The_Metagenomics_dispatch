@@ -15,7 +15,7 @@
 # 
 # grep -f file2.txt 03.IC19_5_SQM.faa.fasta2pi.txt > file3.txt
 
-#Let's compare file1.txt and file3!!
+# Let's compare file1.txt and file3.txt!!
 
 library(stringr)
 
