@@ -46,7 +46,7 @@ for (sample in names(allrec)) {
       legend.key.size = unit(0.5, 'cm'),     # Change legend key size
       legend.text = element_text(size=11),   # Change legend text font size
       legend.title = element_text(size=13.5, face="bold"),
-      axis.ticks.x = element_blank(),        #Delete the little lines marking the values
+      axis.ticks.x = element_blank(),        # Delete the little lines marking the values
       axis.text.x = element_blank(),
       axis.title.x = element_text(face = 'bold', size = 11),
       panel.background = element_blank(), # White background
