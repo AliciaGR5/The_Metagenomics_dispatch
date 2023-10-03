@@ -84,12 +84,12 @@ It's a good idea to observe how the isoelectric point of your samples proteome c
 
 ### [19. PI_violin_plot.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/19.%20PI_violin_plot.R)
 This script will create a violin plot to visualize the differences in isoelectric points between bacteria and archaea.
-+ It requires the table "Punto_isoelectrico_ArchBact.txt" obtained with [18. Isoelectric_point_table.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/18.%20Isoelectric_point_table.R) script.
++ It requires the table "Isoelectric_point_ArchBact.txt" obtained with [18. Isoelectric_point_table.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/18.%20Isoelectric_point_table.R) script.
 ![Job1_PI_archbact_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/fd8ba073-a301-494d-93cd-ff0d9f0d5cf7)
 
 ### [20. PI_density_plot.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/20.%20PI_density_plot.R)
 This script will create a plot to visualize the differences in isoelectric points between different samples.
-+ It requires the table "Punto_isoelectrico_total.txt" obtained with [18. Isoelectric_point_table.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/18.%20Isoelectric_point_table.R) script.
++ It requires the table "Isoelectric_point_total.txt" obtained with [18. Isoelectric_point_table.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/18.%20Isoelectric_point_table.R) script.
 ![PI_density_edit_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/9ac6c6d9-c2ee-4a47-91c6-600cf5e9fe67)
 
 ### [21. countingAAS.py](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/21.%20countingAAS.py)
