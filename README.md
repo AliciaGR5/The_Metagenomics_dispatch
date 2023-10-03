@@ -99,8 +99,8 @@ Have you ever dreamt about counting the amino acids of your sample? Here's the s
 It requires the results ...clean.fasta.aas.out obtained with [21. countingAAS.py](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/21.%20countingAAS.py) script.
 You can choose whether you want to plot all metagenomes in a single figure or vice versa.
 + If you want to be rigorous, you have to clean your sequences first, so you'll need an additional script called 'cleaning_seqs.py' which we can't upload, but please contact us, and we'll show you how to do it **(agroldan@us.es)**.
-![AAcount_one4all_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/4182588d-1a92-4292-a710-f5966ce309e2)
-![AAcount_all4one](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/a087d444-ccee-4632-a8e8-701ecf745fb0)
+![AAcount_one4all_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/e412a116-fe33-4436-aa11-8fe30f6fd2a0)
+![AAcount_all4one_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/6e4e376f-9ed3-4328-976e-1d5dbaeec142)
 
 ### [23. Bubbles_recruitment.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/23.%20Bubbles_recruitment.R)
 Finally, you can see if the bins obtained with SqueezeMeta are in other environments...maybe your little baby is ubiquitous (or not)!! You should do recruitment.
