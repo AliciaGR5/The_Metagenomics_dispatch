@@ -80,8 +80,7 @@ It's just if you want to create a loop and make your life easier.
 
 ### [18. Isoelectric_point_table.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/18.%20Isoelectric_point_table.R)
 It's a good idea to observe how the isoelectric point of your samples proteome changes, so here's a script to do it for the entire sample or separately for two groups: archaea and bacteria (because we think it's interesting to know).
-+ You'll need an additional script called 'fasta2pi' which we can't upload, but please contact us, and we'll show you how to do it **(![image](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/24aa3dca-dbc9-4f2a-aa48-0dc0f32617fb)
-)**.
++ You'll need an additional script called 'fasta2pi' which we can't upload, but please contact us, and we'll show you how to do it **(agroldan[at]us[dot]es)**.
 
 ### [19. PI_violin_plot.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/19.%20PI_violin_plot.R)
 This script will create a violin plot to visualize the differences in isoelectric points between bacteria and archaea.
@@ -99,7 +98,7 @@ Have you ever dreamt about counting the amino acids of your sample? Here's the s
 ### [22. AA_count.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/22.%20AA_count.R)
 It requires the results ...clean.fasta.aas.out obtained with [21. countingAAS.py](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/21.%20countingAAS.py) script.
 You can choose whether you want to plot all metagenomes in a single figure or vice versa.
-+ If you want to be rigorous, you have to clean your sequences first, so you'll need an additional script called 'cleaning_seqs.py' which we can't upload, but please contact us, and we'll show you how to do it **(agroldan[at]us[dot].es)**.
++ If you want to be rigorous, you have to clean your sequences first, so you'll need an additional script called 'cleaning_seqs.py' which we can't upload, but please contact us, and we'll show you how to do it **(agroldan[at]us[dot]es)**.
 ![AAcount_one4all_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/e412a116-fe33-4436-aa11-8fe30f6fd2a0)
 ![AAcount_all4one_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/6e4e376f-9ed3-4328-976e-1d5dbaeec142)
 
