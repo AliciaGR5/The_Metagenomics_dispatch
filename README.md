@@ -80,7 +80,7 @@ It's just if you want to create a loop and make your life easier.
 
 ### [18. Isoelectric_point_table.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/18.%20Isoelectric_point_table.R)
 It's a good idea to observe how the isoelectric point of your samples proteome changes, so here's a script to do it for the entire sample or separately for two groups: archaea and bacteria (because we think it's interesting to know).
-+ You'll need an additional script called 'fasta2pi' which we can't upload, but please contact us, and we'll show you how to do it **(agroldan@us.es)**.
++ You'll need an additional script called 'fasta2pi' which we can't upload, but please contact us, and we'll show you how to do it **(agroldan[at]us[dot].es)**.
 
 ### [19. PI_violin_plot.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/19.%20PI_violin_plot.R)
 This script will create a violin plot to visualize the differences in isoelectric points between bacteria and archaea.
