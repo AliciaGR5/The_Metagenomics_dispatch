@@ -1,6 +1,6 @@
 # The_Metagenomics_dispatch
 #### By Alicia Garcia-Roldan
-Scripts that help take small steps in the inmeasurable (and entertaining) world of metagenomics :wink:
+Scripts that may be helpful to take small steps in the inmeasurable (and entertaining) world of metagenomics :wink:
 
 
 ===========================================================================
@@ -21,7 +21,7 @@ This is the first thing you should do before starting your study: check your sam
 Actually, you can skip this step because SqueezeMeta offers you both MEGAHIT and metaSPAdes assembly.
 
 ### [03. SQM_table_en.sh](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/03.%20SQM_table_en.sh)
-This tool is the crown jewel! This is just an example script so you can figure out how is this tool used, but you should read [SqueezeMeta manual](https://github.com/fpusan/SqueezeMeta) to perform your perfect metagenome analysis.
+This tool is the crown jewel! This is just an example script, so you can figure out how this tool is used, but you should read [SqueezeMeta manual](https://github.com/fpusan/SqueezeMeta) to perform your perfect metagenome analysis.
 
 ### [04. Rmv_line.sh](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/04.%20Rmv_line.sh)
 SqueezeMeta generates a lot of tables, but if you want to work with them in R (or with any other language or tool), you should remove the first line because it is not a 'data line.' It contains information that can sometimes cause issues when working with the data.
@@ -31,11 +31,11 @@ It's just if you want to create a loop and make your life easier.
 
 ### [06. Diversity_table_f.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/06.%20Diversity_table_f.R)
 This script counts how many contigs are related with each family in each sample.
-+ It will be useful for [11. Rarefaction_family.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/11.%20Rarefaction_family.R), [12. Rarefaction_genus.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/12.%20Rarefaction_genus.R) and [13. Alphadiversity_plot_tax.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/13.%20Alphadiversity_plot_tax.R) scripts.
++ It will be useful for [11. Rarefaction_family.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/11.%20Rarefaction_family.R) and [13. Alphadiversity_plot_tax.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/13.%20Alphadiversity_plot_tax.R) scripts.
 
 ### [07. Diversity_table_g.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/07.%20Diversity_table_g.R)
 This script counts how many contigs are related with each genus in each sample.
-+ It will be useful for [11. Rarefaction_family.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/11.%20Rarefaction_family.R), [12. Rarefaction_genus.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/12.%20Rarefaction_genus.R) and [13. Alphadiversity_plot_tax.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/13.%20Alphadiversity_plot_tax.R) scripts.
++ It will be useful for [12. Rarefaction_genus.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/12.%20Rarefaction_genus.R) and [13. Alphadiversity_plot_tax.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/13.%20Alphadiversity_plot_tax.R) scripts.
 
 ### [08. Diversity_table_KEGG.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/08.%20Diversity_table_KEGG.R)
 This script counts how many contigs are related with each KEGG terms in each sample.
@@ -50,12 +50,13 @@ With this script, you will obtain a table with the total number of reads that ma
 This script merges the files obtained with [09. Raw_read_funx.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/09.%20Raw_read_funx.R) ... okay, maybe it's not the most elegant script, but it gets the job done ... Don't worry!! From here on, everything is going to be more beautiful and elegant.
 ![Rarefaction_reads_edit_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/1091f28c-fe4b-4888-b19c-d788509c0200)
 
+### If reads are not for you...
 If you can't work with your reads (or you don't want) here are other scripts that do the same but at contig level. You should know that sometimes this approach to the work is not accurate, it depends on the level and the accuracy you want to have in your study. It's up to you! :)
 
 - ### [11. Rarefaction_family.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/11.%20Rarefaction_family.R)
-  - This script requires the table obtained with the [06. Diversity_table_f.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/06.%20Diversity_table_f.R) script and draw the rarefaction curve at family level.
+  - This script requires the table obtained with the [06. Diversity_table_f.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/06.%20Diversity_table_f.R) script and it draws the rarefaction curve at family level.
 - ### [12. Rarefaction_genus.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/12.%20Rarefaction_genus.R)
-  - This script requires the table obtained with the [07. Diversity_table_g.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/07.%20Diversity_table_g.R) script and draw the rarefaction curve at genus level.
+  - This script requires the table obtained with the [07. Diversity_table_g.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/07.%20Diversity_table_g.R) script and it draws the rarefaction curve at genus level.
 
 ### [13. Alphadiversity_plot_tax.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/13.%20Alphadiversity_plot_tax.R)
 This script calculates alpha diversity (at taxa level) using the Shannon index and makes a beautiful lollipop plot.
@@ -68,7 +69,7 @@ This script calculates alpha diversity (at KEGG terms level) using the Shannon i
 ![Job1_alphadiversity_KEGG_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/4c4fbc1a-9ab0-4001-b67f-fa33849b6feb)
 
 ### [15. GC_plot_count.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/15.%20GC_density_plot.R)
-This script plot your GC results (many, many, maaaaany tears have been shed in this script).
+This script plots your GC results (many, many, maaaaany tears have been shed in this script).
 ![GC_density_plot](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/a214e812-a331-4950-9051-7e491702f63e)
 
 ### [16. PI_calc.sh](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/16.%20PI_calc.sh)
@@ -78,7 +79,7 @@ This allows you to calculate the isoelectric point.
 It's just if you want to create a loop and make your life easier.
 
 ### [18. Isoelectric_point_table.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/18.%20Isoelectric_point_table.R)
-It's a good idea to observe how the isoelectric point of your sample's proteome changes, so here's a script to do it for the entire sample or separately for two groups: archaea and bacteria (because we think it's interesting to know).
+It's a good idea to observe how the isoelectric point of your samples proteome changes, so here's a script to do it for the entire sample or separately for two groups: archaea and bacteria (because we think it's interesting to know).
 + You'll need an additional script called 'fasta2pi' which we can't upload, but please contact us, and we'll show you how to do it **(agroldan@us.es)**.
 
 ### [19. PI_violin_plot.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/19.%20PI_violin_plot.R)
