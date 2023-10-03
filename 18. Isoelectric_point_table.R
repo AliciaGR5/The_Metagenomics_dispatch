@@ -74,5 +74,5 @@ Arch_Bact <- rbind(Arch, Bact)
 
 ## SAVE ##
 
-write.table(df2, file = "Punto_isoelectrico_total.txt",sep = "\t")
-write.table(Arch_Bact, file = "Punto_isoelectrico_ArchBact.txt",sep = "\t")
+write.table(df2, file = "Isoelectric_point_total.txt",sep = "\t")
+write.table(Arch_Bact, file = "Isoelectric_point_ArchBact.txt",sep = "\t")
