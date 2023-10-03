@@ -17,7 +17,7 @@ library(ggplot2)  # v.3.4.0
 
 ## DATASET ##
 
-df = read.csv("Punto_isoelectrico_ArchBact.txt", header=T, sep="\t")
+df = read.csv("Isoelectric_point_ArchBact.txt", header=T, sep="\t")
 
 
 ## PLOTTING TIME! ##
