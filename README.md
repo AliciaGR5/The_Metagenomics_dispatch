@@ -99,7 +99,7 @@ Have you ever dreamt about counting the amino acids of your sample? Here's the s
 ### [22. AA_count.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/22.%20AA_count.R)
 It requires the results ...clean.fasta.aas.out obtained with [21. countingAAS.py](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/21.%20countingAAS.py) script.
 You can choose whether you want to plot all metagenomes in a single figure or vice versa.
-+ If you want to be rigorous, you have to clean your sequences first, so you'll need an additional script called 'cleaning_seqs.py' which we can't upload, but please contact us, and we'll show you how to do it **(agroldan@us.es)**.
++ If you want to be rigorous, you have to clean your sequences first, so you'll need an additional script called 'cleaning_seqs.py' which we can't upload, but please contact us, and we'll show you how to do it **(agroldan[at]us[dot].es)**.
 ![AAcount_one4all_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/e412a116-fe33-4436-aa11-8fe30f6fd2a0)
 ![AAcount_all4one_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/6e4e376f-9ed3-4328-976e-1d5dbaeec142)
 
