@@ -13,6 +13,11 @@ Scripts that may be helpful to take small steps in the inmeasurable (and enterta
 
 ===========================================================================
 
+[García-Roldán A, de la Haba RR, Sánchez-Porro C, Ventosa A. (2024).
+'Altruistic' cooperation among the prokaryotic community of Atlantic salterns assessed by metagenomics.
+Microbiol Res. 288:127869. doi: 10.1016/j.micres.2024.127869](https://www.sciencedirect.com/science/article/pii/S0944501324002702?via%3Dihub)
+
+===========================================================================
 
 ### [01. TrimQC_en.sh](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/01.%20TrimQC_en.sh)
 This is the first thing you should do before starting your study: check your samples quality and perform trimming to improve their quality. I recommend using [MetaWRAP](https://pubmed.ncbi.nlm.nih.gov/30219103/) because it works with modules (making it easy to use) and also performs quality analysis automatically before and after trimming (thanks, MetaWRAP!). However, you are free to use your trusted tool :)
