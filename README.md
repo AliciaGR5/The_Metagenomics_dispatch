@@ -13,9 +13,9 @@ Scripts that may be helpful to take small steps in the inmeasurable (and enterta
 
 ===========================================================================
 
-**García-Roldán A, de la Haba RR, Sánchez-Porro C, Ventosa A. (2024).  
-'Altruistic' cooperation among the prokaryotic community of Atlantic salterns assessed by metagenomics.  
-Microbiol Res. 288:127869. [doi: 10.1016/j.micres.2024.127869](https://www.sciencedirect.com/science/article/pii/S0944501324002702?via%3Dihub)**
+García-Roldán A, de la Haba RR, Sánchez-Porro C, Ventosa A. (2024).  
+**'Altruistic' cooperation among the prokaryotic community of Atlantic salterns assessed by metagenomics.**  
+Microbiol Res. 288:127869. [doi: 10.1016/j.micres.2024.127869](https://www.sciencedirect.com/science/article/pii/S0944501324002702?via%3Dihub)
 
 ===========================================================================
 
