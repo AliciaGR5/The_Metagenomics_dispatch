@@ -1,7 +1,7 @@
 # The_Metagenomics_dispatch
 
 <div align="center">
-  <img width="579" height="34" alt="image" src="https://github.com/user-attachments/assets/373fd8c2-e814-4bef-8581-868b44f11218" />
+  <img width="1598" height="73" alt="image" src="https://github.com/user-attachments/assets/cc99f5a3-2669-446f-a1b1-ea2f20e05906" />
 </div>
 
 <br>
