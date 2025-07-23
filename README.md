@@ -1,4 +1,12 @@
 # The_Metagenomics_dispatch
+
+<div align="center">
+  <img width="731" height="153" alt="image" src="https://github.com/user-attachments/assets/7fae195a-5393-4ccd-bbb1-714f3557df88" />
+</div>
+
+<br>
+
+
 #### By Alicia Garcia-Roldan
 Scripts that may be helpful to take small steps in the inmeasurable (and entertaining) world of metagenomics :wink:
 
