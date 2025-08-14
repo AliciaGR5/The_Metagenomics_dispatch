@@ -8,7 +8,7 @@
 <br>
 
 
-#### By Alicia Garcia-Roldan
+#### By Alicia García-Roldán
 Scripts that may be helpful to take small steps in the inmeasurable (and entertaining) world of metagenomics :wink:
 
 
