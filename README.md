@@ -23,8 +23,7 @@
 
 **'Altruistic' cooperation among the prokaryotic community of Atlantic salterns assessed by metagenomics.**   
 García-Roldán A, de la Haba RR, Sánchez-Porro C, Ventosa A. (2024). 
-Microbiol Res. 288:127869.
-[doi: 10.1016/j.micres.2024.127869](https://www.sciencedirect.com/science/article/pii/S0944501324002702?via%3Dihub) <br><br>
+Microbiol Res. 288:127869. [doi: 10.1016/j.micres.2024.127869](https://www.sciencedirect.com/science/article/pii/S0944501324002702?via%3Dihub) <br><br>
 
 :fox_face: You can see more scripts in the second part of this adventure!! Go and visit [**Metagenomics_on_the_verge_of_a_nervous_breakdown**](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown) :fox_face:
 
