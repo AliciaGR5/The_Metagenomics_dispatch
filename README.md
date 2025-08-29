@@ -69,7 +69,9 @@ With this script, you will obtain a table with the total number of reads that ma
 ### [10. Rarefaction_rawreads_merge.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/10.%20Rarefaction_rawreads_merge.R)
 This script merges the files obtained with [09. Raw_read_funx.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/09.%20Raw_read_funx.R) ... okay, maybe it's not the most elegant script, but it gets the job done ... Don't worry!! From here on, everything is going to be more beautiful and elegant.
 
-<img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/1091f28c-fe4b-4888-b19c-d788509c0200" width="400"/>
+<img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/1091f28c-fe4b-4888-b19c-d788509c0200" width="500"/>
+
+<img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/1091f28c-fe4b-4888-b19c-d788509c0200" width="600"/>
 
 ![Rarefaction_reads_edit_english](https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/1091f28c-fe4b-4888-b19c-d788509c0200)
 
