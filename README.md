@@ -29,7 +29,7 @@ Microbiol Res. 288:127869. <br>
 
 <div align="center">
   
-:fox_face: You can see more scripts in the second part of this adventure!! Go and visit :fox_face: [**Metagenomics_on_the_verge_of_a_nervous_breakdown**](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown) :fox_face:
+:fox_face: You can see more scripts in the second part of this adventure!! Go and visit :fox_face: [**Metagenomics_on_the_verge_of_a_nervous_breakdown**](https://github.com/AliciaGR5/Metagenomics_on_the_verge_of_a_nervous_breakdown)
 
 </div>
 ===========================================================================
