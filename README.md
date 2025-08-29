@@ -25,7 +25,7 @@
 **'Altruistic' cooperation among the prokaryotic community of Atlantic salterns assessed by metagenomics.**   
 García-Roldán A, de la Haba RR, Sánchez-Porro C, Ventosa A. (2024). 
 Microbiol Res. 288:127869. <br>
-[doi: 10.1016/j.micres.2024.127869](https://www.sciencedirect.com/science/article/pii/S0944501324002702?via%3Dihub) <br><br>
+[doi: 10.1016/j.micres.2024.127869](https://www.sciencedirect.com/science/article/pii/S0944501324002702?via%3Dihub) <br>
 
 <div align="center">
   
