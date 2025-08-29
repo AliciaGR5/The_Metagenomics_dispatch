@@ -68,6 +68,7 @@ With this script, you will obtain a table with the total number of reads that ma
 
 ### [10. Rarefaction_rawreads_merge.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/10.%20Rarefaction_rawreads_merge.R)
 This script merges the files obtained with [09. Raw_read_funx.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/09.%20Raw_read_funx.R) ... okay, maybe it's not the most elegant script, but it gets the job done ... Don't worry!! From here on, everything is going to be more beautiful and elegant.
+
 <div align="center">
 <img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/1091f28c-fe4b-4888-b19c-d788509c0200" width="600"/>
 </div>
@@ -84,18 +85,24 @@ If you can't work with your reads (or you don't want) here are other scripts tha
 This script calculates alpha diversity (at taxa level) using the Shannon index and makes a beautiful lollipop plot.
 + You will need the result of [06. Diversity_table_f.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/06.%20Diversity_table_f.R) or [07. Diversity_table_g.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/07.%20Diversity_table_g.R) scripts.
 
-<img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/4055d6c3-4712-4f4b-b290-0ba4dc6ea35c" width="600"/>
-
+<div align="center">
+<img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/4055d6c3-4712-4f4b-b290-0ba4dc6ea35c" width="500"/>
+</div>
+  
 ### [14. Alphadiversity_plot_KEGG.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/14.%20Alphadiversity_plot_KEGG.R)
 This script calculates alpha diversity (at KEGG terms level) using the Shannon index and makes a beautiful lollipop plot.
 + You will need the result of [08. Diversity_table_KEGG.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/08.%20Diversity_table_KEGG.R) script.
 
-<img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/4c4fbc1a-9ab0-4001-b67f-fa33849b6feb" width="600"/>
+<div align="center">
+<img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/4c4fbc1a-9ab0-4001-b67f-fa33849b6feb" width="500"/>
+</div>
 
 ### [15. GC_plot_count.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/15.%20GC_density_plot.R)
 This script plots your GC results (many, many, maaaaany tears have been shed in this script).
 
+<div align="center">
 <img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/a214e812-a331-4950-9051-7e491702f63e" width="600"/>
+</div>
 
 ### [16. PI_calc.sh](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/16.%20PI_calc.sh)
 This allows you to calculate the isoelectric point.
@@ -111,13 +118,17 @@ It's a good idea to observe how the isoelectric point of your samples proteome c
 This script will create a violin plot to visualize the differences in isoelectric points between bacteria and archaea.
 + It requires the table "Isoelectric_point_ArchBact.txt" obtained with [18. Isoelectric_point_table.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/18.%20Isoelectric_point_table.R) script.
 
-<img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/fd8ba073-a301-494d-93cd-ff0d9f0d5cf7" width="600"/>
+<div align="center">
+<img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/fd8ba073-a301-494d-93cd-ff0d9f0d5cf7" width="500"/>
+</div>
 
 ### [20. PI_density_plot.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/20.%20PI_density_plot.R)
 This script will create a plot to visualize the differences in isoelectric points between different samples.
 + It requires the table "Isoelectric_point_total.txt" obtained with [18. Isoelectric_point_table.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/18.%20Isoelectric_point_table.R) script.
 
+<div align="center">
 <img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/9ac6c6d9-c2ee-4a47-91c6-600cf5e9fe67" width="600"/>
+</div>
 
 ### [21. countingAAS.py](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/21.%20countingAAS.py)
 Have you ever dreamt about counting the amino acids of your sample? Here's the solution!
@@ -127,18 +138,25 @@ It requires the results ...clean.fasta.aas.out obtained with [21. countingAAS.py
 You can choose whether you want to plot all metagenomes in a single figure or vice versa.
 + If you want to be rigorous, you have to clean your sequences first, so you'll need an additional script called 'cleaning_seqs.py' which we can't upload, but please contact us, and we'll show you how to do it **(agroldan[at]us[dot]es)**.
 
-<img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/e412a116-fe33-4436-aa11-8fe30f6fd2a0" width="600"/>
+<div align="center">
+<img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/e412a116-fe33-4436-aa11-8fe30f6fd2a0" width="400"/>
+</div>
 
-<img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/6e4e376f-9ed3-4328-976e-1d5dbaeec142" width="600"/>
+<div align="center">
+<img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/6e4e376f-9ed3-4328-976e-1d5dbaeec142" width="500"/>
+</div>
 
 ### [23. Bubbles_recruitment.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/23.%20Bubbles_recruitment.R)
 Finally, you can see if the bins obtained with SqueezeMeta are in other environments...maybe your little baby is ubiquitous (or not)!! You should do recruitment.
 You can plot it in a bubble plot...
 
+<div align="center">
 <img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/83c2d01d-fb59-4cce-9c37-002281e18162" width="600"/>
+</div>
 
 ### [24. Recruitment_loop_IC.R](https://github.com/AliciaGR5/The_Metagenomics_dispatch/blob/main/24.%20Recruitment_loop_IC.R)
 ...or in a barplot...it is up to you! :)
 
+<div align="center">
 <img src="https://github.com/AliciaGR5/The_Metagenomics_dispatch/assets/99254799/1e9ad9eb-4b3c-40ad-b16b-7d49c92f4c0a" width="600"/>
-
+</div>
