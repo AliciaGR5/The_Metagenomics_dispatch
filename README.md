@@ -9,7 +9,7 @@
 
 
 #### By Alicia Garcia-Roldan
-:fox_face::wink: Scripts that may be helpful to take small steps in the inmeasurable (and entertaining) world of metagenomics :wink::fox_face:
+:fox_face: Scripts that may be helpful to take small steps in the inmeasurable (and entertaining) world of metagenomics :fox_face:
 
 
 ===========================================================================
